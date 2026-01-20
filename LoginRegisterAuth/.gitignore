@@ -1,0 +1,9 @@
+main.py
+main2.py
+*.docx
+*.pdf
+venv/
+venv2/
+.idea/
+__pycache__/
+*.pyc
